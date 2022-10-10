@@ -1,4 +1,4 @@
-
+<a href="https://github.com/NiiVx/NiiVx/blob/main/README-EN.MD">🇺🇸 If you do not speak portuguese you can click here to see the english version.</a>
 <p>Me chamo Vinicius, sou um Pernambucano apaixonado por desenvolvimento de software e ciência da computação, estudante de desenvolvimento web na Trybe</p>
 
 ### Algumas das minhas stacks principais são:
