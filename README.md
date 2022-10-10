@@ -1,11 +1,14 @@
-<h1 align="center">Olá, visitante 👋 Eu sou o Vinicius!</h1>
-<h3 align="center">Desenvolvedor Front-End</h3>
-<h3>
-Sobre Mim
+Sobre Mim:
 </h3>
-<p>Pernambucano apaixonado por desenvolvimento de software e ciência da computação </p>
-<p>Estudante da Trybe!</p>
-- 🌱 Estou atualmente estudando **Back-End**
+<p>Me chamo Vinicius, sou um Pernambucano apaixonado por desenvolvimento de software e ciência da computação, estudante de desenvolvimento web na Trybe</p>
+
+### Algumas das minhas stacks são:
+
+💻 Desenvolvimento Web front-end com HTML, CSS e ReactJS
+
+📡 APIs REST utilizando Typescript, Node.js
+
+💾 Armazenamento em bancos de dados relacionais (SQL) como MySQL e não relacional como MongoDB
 
 - 📫 Como me encontrar: **vinicios241@gmail.com**
 
